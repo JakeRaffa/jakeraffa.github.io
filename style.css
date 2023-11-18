@@ -1,6 +1,8 @@
 body {
-    font-family: 'Cambria', sans-serif;
-    line-height: 2.5;
+    font-family: 'Cambria', serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f8f8f8;
@@ -9,7 +11,7 @@ body {
 #header {
     background-color: #333;
     color: #fff;
-    padding: 20px;
+    padding: 25px;
     text-align: center;
 }
 
