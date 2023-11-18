@@ -15,12 +15,20 @@ body {
     text-align: center;
 }
 
-#header p {
-    margin: 0;
+#desc {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 20px;
 }
 
-#desc {
-    padding: 20px;
+#desc p {
+    width: 60%; 
+}
+
+#headshot {
+    max-width: 40%; 
+    border-radius: 8px; 
 }
 
 .section {
