@@ -19,7 +19,7 @@ body {
     float: right;
     max-width: 100%;
     height: auto; 
-    max-height: 200px; 
+    max-height: 50x; 
     box-sizing: border-box;
 }
 
@@ -29,7 +29,6 @@ body {
 
 #desc {
     padding: 20px;
-    display: flex;
 }
 
 .section {
