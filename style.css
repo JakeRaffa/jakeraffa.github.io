@@ -1,7 +1,5 @@
 body {
     font-family: 'Cambria', serif;
-    font-size: 20px;
-    font-weight: bold;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -10,6 +8,8 @@ body {
 
 #header {
     background-color: #333;
+    font-size: 25px;
+    font-weight: bold;
     color: #fff;
     padding: 25px;
     text-align: center;
@@ -54,6 +54,7 @@ body {
 
 footer {
     text-align: center;
+    font-weight: bold;
     padding: 20px;
     background-color: #333;
     color: #fff;
