@@ -17,11 +17,8 @@ body {
 
 #headshot {
     float: right;
-    max-width: 100%;
-    height: auto; 
-    max-height: 20x; 
-    margin-left: 20x;
-    box-sizing: border-box;
+    width: 25%;
+    height: 25%;
 }
 
 #header p {
