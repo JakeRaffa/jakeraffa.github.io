@@ -19,7 +19,8 @@ body {
     float: right;
     max-width: 100%;
     height: auto; 
-    max-height: 50x; 
+    max-height: 20x; 
+    margin-left: 20x;
     box-sizing: border-box;
 }
 
