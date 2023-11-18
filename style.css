@@ -15,20 +15,16 @@ body {
     text-align: center;
 }
 
-#desc {
-    display: flex; 
-    align-items: center; 
-    justify-content: space-between; 
-    padding: 20px;
-}
-
-#desc p {
-    width: 60%; 
-}
-
 #headshot {
-    max-width: 40%; 
-    border-radius: 8px; 
+    float: right;
+}
+
+#header p {
+    margin: 0;
+}
+
+#desc {
+    padding: 20px;
 }
 
 .section {
