@@ -17,6 +17,8 @@ body {
 
 #headshot {
     float: right;
+    margin-left: 10px;
+
 }
 
 #header p {
