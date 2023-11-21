@@ -20,12 +20,12 @@ body {
 }
 
 #desc {
-    padding: 16px;
+    padding: 16px 0 0 16px;
     font-size: 16px;
 }
 
 .section {
-    margin: 20px 0;
+    margin: 28px 0;
 }
 
 .collapsible {
